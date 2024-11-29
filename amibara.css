@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./jpg/photo_2024-11-24_01-54-29.jpg);
+}
+
+header {
+    background: #4caf4fea;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+
+}
+
+ 
+
+h1, h2 {
+    margin: 0;
+}
+button {
+    background: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: rgba(210, 105, 30, 0.884)
+}
+li a button{
+    width: 75px;
+    height: 50px;
+    background-color: yellow;
+    color: black;
+}
+li a button:hover{
+    background-color: red;
+
+}
+header h1 a{
+    margin-left: 1000px;
+    width: 80px;
+    height: 50px;
+    
+
+
+}
+main{
+    background-color: rgba(255, 127, 80, 0.877);
+}
+h1 a button:hover{
+    background-color: forestgreen
+}
+h1 a button{
+    background-color: red;
+}
+header p{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+main div{
+   background-image: url('./jpg/_36a83f4a-487e-4e66-97bc-35c364a6693d.jfif');
+   
+   
+    
+}
+details{
+    font-size: medium;
+    
+    
+    
+}
+section p{
+    margin: 100px;
+    font-size: xx-large;
+
+}
+section p a button{
+    width: 300px;
+    height: 50px;
+    background-color: gold;
+    font-size: medium;
+    color: #332626;
+}
+section p a button:hover{
+    background-color: #45a049;
+}

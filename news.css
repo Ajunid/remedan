@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./jpg/photo_2024-11-24_01-54-29.jpg);
+}
+
+header {
+    background: #4caf4fd0;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+
+}
+
+ 
+
+h1, h2 {
+    margin: 0;
+}
+
+button {
+    background: #13aa18;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: rgba(97, 56, 26, 0.849)
+}
+li a button{
+    width: 75px;
+    height: 50px;
+    background-color: rgb(255, 208, 0);
+    color: black;
+}
+li a button:hover{
+    background-color: rgb(189, 63, 63);
+
+}
+header h1 a{
+    margin-left: 1000px;
+    width: 80px;
+    height: 50px;
+    
+
+
+}
+main{
+    background-color: rgb(212, 76, 27);
+}
+h1 a button:hover{
+    background-color: forestgreen
+}
+h1 a button{
+    background-color: rgba(255, 0, 0, 0.466);
+}
+header p{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+  
+
+details{
+    font-size: medium;
+    
+    
+}
+section p{
+    margin: 100px;
+    font-size: xx-large;
+
+}
+section p a button{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(128, 128, 119);
+    font-size: medium;
+    color: #332626;
+}
+section p a button:hover{
+    background-color: #45a049;
+}
+iframe{
+    width: 650px;
+    height: 600px;
+    
+ 
+}
+main{
+    display: inline-flex;
+    margin-left: 10px;
+
+
+
+   
+ 
+
+}

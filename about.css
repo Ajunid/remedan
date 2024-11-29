@@ -1,0 +1,55 @@
+ 
+    body{
+    background-image: url('./jpg/photo_2024-11-24_01-54-29.jpg');
+      
+    }
+ header{
+    background-color: rgba(58, 58, 58, 0.932);
+ 
+ }
+ h1{
+    margin-left: 1200px;
+    background-color: rgb(58, 58, 58);
+ }
+ nav{
+    margin-left: 200px;
+    list-style: none;
+    padding: 0px;
+    flex-direction: row;
+
+ }
+ nav ul li{
+    display: inline;
+    padding: 0 25px;
+ }
+ p{
+    
+    color: antiquewhite;
+    font-size: medium
+ }
+ footer {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #2282bede;
+    color: #000000;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+button{
+   background-color: salmon;
+   width: 75px;
+   height: 50px;
+}
+button:hover{
+   background-color: mediumspringgreen;
+}
+header p {
+   margin-left: 500px;
+   font-size: xx-large;
+   
+}
+main{
+   
+   background-color: rgba(0, 0, 0, 0.849);
+}
